@@ -29,7 +29,7 @@ You need a modern web browser to run this project.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/analog-clock.git](https://github.com/SahanDilusha/Build-an-Analog-Clock-with-HTML-CSS-and-JavaScript.git
+    git clone https://github.com/SahanDilusha/Build-an-Analog-Clock-with-HTML-CSS-and-JavaScript.git
     ```
 
 2. Navigate to the project directory:
