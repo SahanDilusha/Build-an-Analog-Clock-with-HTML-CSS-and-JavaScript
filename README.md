@@ -35,14 +35,14 @@ You need a modern web browser to run this project.
 2. Navigate to the project directory:
 
     ```bash
-    cd analog-clock
+    cd Build-an-Analog-Clock-with-HTML-CSS-and-JavaScript
     ```
 
 3. Open `index.html` in your browser to see the clock in action.
 
 ## File Structure
 
-analog-clock/
+Build-an-Analog-Clock-with-HTML-CSS-and-JavaScript/
 ├── index.html
 ├── style.css
 ├── script.js
