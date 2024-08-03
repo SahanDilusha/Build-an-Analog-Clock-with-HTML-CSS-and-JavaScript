@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Playwrite+AR:wght@100..400&display=swap');
+
 body {
     display: flex;
     justify-content: center;
@@ -7,6 +9,24 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    flex-direction: column;
+}
+
+* {
+
+    font-family: "Playwrite AR", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+header {
+    margin-bottom: 50px;
+}
+
+header h1 {
+    color: #ffffff;
 }
 
 .my-clock {
@@ -27,13 +47,14 @@ body {
 }
 
 .hand {
-    width: 50%;
+    width: 40%;
     background-color: #ffffff;
     position: absolute;
     top: 50%;
     transform-origin: 100%;
     transform: rotate(90deg);
     transition-timing-function: cubic-bezier(0.4, 2.3, 0.3, 1);
+    border-radius: 20px;
 }
 
 .hour {
