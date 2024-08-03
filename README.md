@@ -42,6 +42,7 @@ You need a modern web browser to run this project.
 
 ## File Structure
 
+```plaintext
 Build-an-Analog-Clock-with-HTML-CSS-and-JavaScript/
 ├── index.html
 ├── style.css
