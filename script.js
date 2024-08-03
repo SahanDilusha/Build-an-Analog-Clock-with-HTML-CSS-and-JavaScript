@@ -3,9 +3,6 @@ const minutehand = document.querySelector(".minute");
 const secondhand = document.querySelector(".second");
 
 function setTime() {
-
-
-
     const now = new Date();
     const hours = now.getHours();
     const minutes = now.getMinutes();
