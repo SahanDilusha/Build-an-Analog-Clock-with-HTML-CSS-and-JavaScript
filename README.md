@@ -4,7 +4,7 @@ This is a simple analog clock created using HTML, CSS, and JavaScript. The clock
 
 ## Demo
 
-![Analog Clock]([screenshot.png](https://github.com/SahanDilusha/Build-an-Analog-Clock-with-HTML-CSS-and-JavaScript/blob/c0f8fa30fb715b4d3bb30a5e48f169cf2db1edaa/Screenshot.png))
+![Analog Clock](https://github.com/SahanDilusha/Build-an-Analog-Clock-with-HTML-CSS-and-JavaScript/blob/c0f8fa30fb715b4d3bb30a5e48f169cf2db1edaa/Screenshot.png)
 
 ## Features
 
@@ -29,7 +29,7 @@ You need a modern web browser to run this project.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/analog-clock.git
+    git clone https://github.com/your-username/analog-clock.git](https://github.com/SahanDilusha/Build-an-Analog-Clock-with-HTML-CSS-and-JavaScript.git
     ```
 
 2. Navigate to the project directory:
